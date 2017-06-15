@@ -1,2 +1,2 @@
 # gobang
-五子棋
+这是用JS、HTML5、CSS3开发的五子棋
